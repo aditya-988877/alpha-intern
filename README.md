@@ -1,3 +1,3 @@
 # alpha-intern
-this is my first git repository
-author-kumar aditya
+this is my first git repository.
+Author-kumar aditya
